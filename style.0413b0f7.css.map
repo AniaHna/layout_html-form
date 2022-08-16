@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,UACE,kBACF,CAEA,sBACE,kBACF","file":"style.0413b0f7.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.fieldset {\n  margin-bottom: 20px;\n}\n\n.inp:not(:last-child) {\n  margin-bottom: 10px;\n}\n"]}
